@@ -12,4 +12,4 @@ dependencies:
   - bokeh
   - dask
   pip:
-  - jupyterhub==0.9.4
+  - jupyterhub==2.3.1
