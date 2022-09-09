@@ -11,3 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
+  pip:
+  - jupyterhub==0.9.4
